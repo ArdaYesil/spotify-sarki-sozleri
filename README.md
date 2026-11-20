@@ -41,7 +41,7 @@ O an söylenen satır büyük ve parlak, söylenmiş satırlar üstte soluk, sı
 Git ile:
 
 ```powershell
-git clone https://github.com/<kullanici-adin>/spotify-sarki-sozleri.git
+git clone https://github.com/ArdaYesil/spotify-sarki-sozleri.git
 cd spotify-sarki-sozleri
 ```
 
